@@ -37,6 +37,9 @@ The private [Human Blockchain Operating System](https://github.com/donaldhaight/
 2. [`docs/architecture/integrated_venture_operating_system.md`](docs/architecture/integrated_venture_operating_system.md) defines the layers, work graph, teams, gates, and learning loop.
 3. [`docs/protocols/one_prompt_launch_protocol.md`](docs/protocols/one_prompt_launch_protocol.md) contains the pre-provisioning checklist, mission-input schema, and reusable launch prompt.
 4. [`docs/architecture/living_document_contracts.md`](docs/architecture/living_document_contracts.md) defines artifact metadata, state transitions, source-control rules, and evidence-to-decision traceability.
+5. [`docs/architecture/ultimate_stack_experimental_architecture.md`](docs/architecture/ultimate_stack_experimental_architecture.md) defines the proposed control plane for identity, data, agent teams, orchestration, automation, observability, and recovery.
+6. [`docs/roadmaps/ultimate_stack_experimental_roadmap.md`](docs/roadmaps/ultimate_stack_experimental_roadmap.md) defines reversible experimental increments, decision gates, and rollback controls.
+7. [`docs/research/ultimate_stack_research_findings.md`](docs/research/ultimate_stack_research_findings.md) preserves the external architecture evidence and direct validation notes behind the proposal.
 
 ## Operating Principles
 
@@ -48,7 +51,7 @@ The private [Human Blockchain Operating System](https://github.com/donaldhaight/
 
 ## Current Scope
 
-The repository contains the first operating-system baseline. It is ready to be piloted with one approved beachhead mission. It does not yet contain a deployed persistent runtime, active external integrations, or authority to perform external actions.
+The `main` branch contains the first operating-system baseline, preserved by the `v0.1.0-session-baseline` tag. The [`experiment/ultimate-stack`](https://github.com/donaldhaight/dh-manus-operating-system/tree/experiment/ultimate-stack) branch contains an architecture and roadmap for a secure multi-agent control plane. The experiment has **not** provisioned a persistent runtime, enabled external integrations, or granted authority to perform external actions.
 
 ## Provenance and Handling
 
