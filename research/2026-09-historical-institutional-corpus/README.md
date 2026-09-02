@@ -24,10 +24,10 @@ The core thesis tested here is that technology waves repeatedly produce the same
 |---|---|---|
 | 1 | [Final strategic interpretation](coordination_institutions_across_technology_cycles.md) | The reflection-ready narrative, conclusions, safeguards, and next decisions. |
 | 2 | [Cross-cycle pattern map](cross_cycle_pattern_map.md) | Dimension-by-dimension comparison, three-layer architecture narrative, and “what not to copy.” |
-| 3 | [1997–2000 evidence ledger](web1_1997_2000_evidence_ledger.md) | Web 1, XML, directory/identity, B2B market-hub, coalition, and Covisint material. |
-| 4 | [2007–2009 evidence ledger](2007_2009_evidence_ledger.md) | Correction, transparency/accountability, shared utility, OpenID, and coordination material. |
-| 5 | [2012–2017 evidence ledger](2012_2017_evidence_ledger.md) | Protocol foundations, ICO/DAO, enterprise-consortium, PBC, and SPAC-era boundaries. |
-| 6 | [2025–2026 evidence ledger](llm_datacenter_public_missions_evidence_ledger.md) | LLM-provider governance, agent standards, compute constraints, and U.S. public-mission material. |
+| 3 | [1997–2000 evidence ledger](evidence-ledgers/web1_1997_2000_evidence_ledger.md) | Web 1, XML, directory/identity, B2B market-hub, coalition, and Covisint material. |
+| 4 | [2007–2009 evidence ledger](evidence-ledgers/2007_2009_evidence_ledger.md) | Correction, transparency/accountability, shared utility, OpenID, and coordination material. |
+| 5 | [2012–2017 evidence ledger](evidence-ledgers/2012_2017_evidence_ledger.md) | Protocol foundations, ICO/DAO, enterprise-consortium, PBC, and SPAC-era boundaries. |
+| 6 | [2025–2026 evidence ledger](evidence-ledgers/llm_datacenter_public_missions_evidence_ledger.md) | LLM-provider governance, agent standards, compute constraints, and U.S. public-mission material. |
 
 ## Raw research material
 
@@ -35,10 +35,10 @@ The following files preserve parallel research outputs. They are supporting work
 
 | File | Coverage |
 |---|---|
-| `/home/ubuntu/web1_coalition_historical_research.json` | Web 1 / standards / coalition research lanes. |
-| `/home/ubuntu/financial_crisis_infrastructure_research.json` | 2007–2009 correction and infrastructure-rebuilding research lanes. |
-| `/home/ubuntu/blockchain_public_benefit_historical_research.json` | 2012–2017 protocol, ICO/DAO, PBC, SPAC, and consortium research lanes. |
-| `/home/ubuntu/llm_datacenter_public_missions_research.json` | LLM, data-centre, standards, and Genesis Mission research lanes. |
+| [web1_coalition_historical_research.json](raw-research/web1_coalition_historical_research.json) | Web 1 / standards / coalition research lanes. |
+| [financial_crisis_infrastructure_research.json](raw-research/financial_crisis_infrastructure_research.json) | 2007–2009 correction and infrastructure-rebuilding research lanes. |
+| [blockchain_public_benefit_historical_research.json](raw-research/blockchain_public_benefit_historical_research.json) | 2012–2017 protocol, ICO/DAO, PBC, SPAC, and consortium research lanes. |
+| [llm_datacenter_public_missions_research.json](raw-research/llm_datacenter_public_missions_research.json) | LLM, data-centre, standards, and Genesis Mission research lanes. |
 
 ## What the corpus presently supports
 
